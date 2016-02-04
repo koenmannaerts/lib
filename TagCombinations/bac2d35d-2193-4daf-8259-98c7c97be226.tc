@@ -1,5 +1,5 @@
 <Entity>0841633d-484b-46e7-a0da-eecfc3157bcf</Entity>
-<Industry>Construction</Industry>
+<Industry>Automotive</Industry>
 <Complexity>All</Complexity>
 <EngagementType>All</EngagementType>
-<Usage>Optional</Usage>
+<Usage>Mandatory</Usage>
